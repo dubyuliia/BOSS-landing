@@ -2,7 +2,8 @@
 1. Create a repo using this template
 1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
     - [DEMO LINK](https://dubyuliia.github.io/BOSS-landing/)
-    [FIGMA DESIGN] (https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26-51&t=gfwEj3S7D5vaqcOk-0)
+    
+  FIGMA DESIGN (https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26-51&t=gfwEj3S7D5vaqcOk-0)
 
 - The page is created in a modern bright design. 
 - Convenient navigation is also used, which helps to move quickly around the page. 
